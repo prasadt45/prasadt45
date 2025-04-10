@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Prasad Tamhan. 👨‍💻 
+# 👋 Hey there! I'm Prasad Tamhan. 👨‍💻  
 
 
 Welcome to my world of **code** and **creativity**! 🎨✨  
@@ -13,6 +13,9 @@ I'm a passionate **full-stack web developer (MERN Stack)** who loves building me
 
 - 🖥️ **Expertise:**  
   I specialize in full-stack development using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and have a deep love for solving complex problems through code.  
+
+- 💡 **Competitive Programmer:**  
+  I love taking on challenges on platforms like **LeetCode**!  
 
 ---
 
@@ -47,8 +50,8 @@ Here are some of the projects I'm proud of. Check them out and let me know what 
 
 ### 🖋️ Languages:  
 - **JavaScript**  
-- **Python**
-- **C++**
+- **Python**  
+- **C++**  
 - **HTML/CSS**  
 
 ### ⚙️ Frameworks & Tools:  
@@ -64,8 +67,14 @@ Here are some of the projects I'm proud of. Check them out and let me know what 
 
 ![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadt45&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadt45&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasadt45&theme=radical&hide_border=true) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasadt45&theme=radical&hide_border=true)  
 
+---
+
+## 👨‍💻 Competitive Programming  
+
+- 🏆 Check out my **LeetCode** profile for coding challenges: [Prasad_45](https://leetcode.com/u/Prasad_45/)  
+- 💼 Explore my portfolio on **Codefolio**: [My Codefolio Profile](https://codolio.com/profile/PrasadTamhan45)  
 
 ---
 
@@ -76,9 +85,9 @@ Here are some of the projects I'm proud of. Check them out and let me know what 
 
 ## 🌐 Connect with Me  
 
-- 📧 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- 🌟 **Portfolio:** [Your Portfolio](https://your-portfolio-link.com)  
+- 📧 **Email:** [tamhanprasad@gmail.com](mailto:tamhanprasad@gmail.com)  
+- 💼 **LinkedIn:** [Prasad Tamhan ](https://www.linkedin.com/in/prasad-tamhan-20a8a4266/)  
+- 🌟 **Portfolio:** [PrasadTamhan45](https://codolio.com/profile/PrasadTamhan45)  
 
 ---
 
