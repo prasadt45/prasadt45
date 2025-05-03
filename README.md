@@ -1,69 +1,64 @@
-# 👋 Hey there! I'm Prasad Tamhan. 👨‍💻  
+# 👋 Welcome! I'm **Prasad Tamhan**  
 
-
-Welcome to my world of **code** and **creativity**! 🎨✨  
-I'm a passionate **full-stack web developer (MERN Stack)** who loves building meaningful projects and solving real-world problems. From full-stack web apps to fun side projects, I aim to deliver quality and innovation in every line of code I write!  
+I am a dedicated **Full-Stack Web Developer (MERN Stack)** with a passion for crafting impactful projects and solving real-world challenges. My expertise lies in building robust and scalable applications, delivering quality solutions, and continuously honing my skills in the ever-evolving field of software development.  
 
 ---
 
 ## 🎓 About Me  
 
-- 🎓 **Education:**  
-  I'm a **3rd Year B.Tech Student** in **Computer Science and Engineering** at **Shri Ramdeobaba College of Engineering and Management**. 📚  
+- **Education:**  
+  I am currently pursuing a **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering** (3rd Year) at **Shri Ramdeobaba College of Engineering and Management**.  
 
-- 🖥️ **Expertise:**  
-  I specialize in full-stack development using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and have a deep love for solving complex problems through code.  
+- **Technical Expertise:**  
+  My primary focus is on full-stack development using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and I am driven by a strong passion for problem-solving and innovation.  
 
-- 💡 **Competitive Programmer:**  
-  I love taking on challenges on platforms like **LeetCode**!  
-
----
-
-## 🌟 Highlights of My Journey  
-
-### 🚀 Featured Projects  
-Here are some of the projects I'm proud of. Check them out and let me know what you think!  
-
-- 🎯 **[Behavior Detection - 3rd Year Project](https://github.com/prasadt45/Behavior-Detection-3rd-Year-Project)**  
-  A cutting-edge project leveraging algorithms for behavior classification.  
-  **Languages:** JavaScript (93.9%), Python, CSS, HTML  
-
-- 🎥 **[VideoTube Backend](https://github.com/prasadt45/VideoTube_Backend)**  
-  A fully functional backend for a YouTube-like video platform.  
-  **Languages:** JavaScript (100%)  
-
-- 🖋️ **[MegaBlog - React](https://github.com/prasadt45/MegaBlog_React)**  
-  A blogging platform prototype built using React.  
-  **Languages:** JavaScript (97.7%), CSS, HTML  
-
-- 🎵 **[Spotify Clone](https://github.com/prasadt45/Spotify_Clone)**  
-  A visually stunning and functional Spotify clone.  
-  **Languages:** JavaScript (47.4%), CSS, HTML  
-
-- 🌤️ **[Weather App](https://github.com/prasadt45/Weather-App-JS)**  
-  Check the real-time weather with this simple app.  
-  **Languages:** JavaScript (36.2%), CSS, HTML  
+- **Competitive Programming:**  
+  I actively tackle challenges on platforms like **LeetCode**, refining my problem-solving abilities and exploring efficient algorithms.
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Technical Skills  
 
-### 🖋️ Languages:  
-- **JavaScript**  
-- **Python**  
-- **C++**  
-- **HTML/CSS**  
+### **Programming Languages:**  
+- JavaScript  
+- Python  
+- C++  
+- HTML / CSS  
 
-### ⚙️ Frameworks & Tools:  
-- **React.js**  
-- **Node.js**  
-- **Express.js**  
-- **MongoDB**  
-- **Git & GitHub**  
+### **Frameworks, Libraries, and Tools:**  
+- React.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+- Git & GitHub  
 
 ---
 
-## 📈 My GitHub Stats  
+## 🌟 Featured Projects  
+
+### 🎯 **[Behavior Detection - 3rd Year Project](https://github.com/prasadt45/Behavior-Detection-3rd-Year-Project)**  
+A cutting-edge project utilizing advanced algorithms for behavior classification.  
+**Technologies Used:** JavaScript, Python, HTML, CSS  
+
+### 🎥 **[VideoTube Backend](https://github.com/prasadt45/VideoTube_Backend)**  
+A fully functional backend system designed for a YouTube-like video streaming platform.  
+**Technologies Used:** JavaScript  
+
+### 🖋️ **[MegaBlog - React](https://github.com/prasadt45/MegaBlog_React)**  
+A prototype blogging platform developed using React.js to provide an intuitive user experience.  
+**Technologies Used:** JavaScript, HTML, CSS  
+
+### 🎵 **[Spotify Clone](https://github.com/prasadt45/Spotify_Clone)**  
+A visually appealing and functional clone of Spotify, designed to deliver a seamless user interface.  
+**Technologies Used:** JavaScript, HTML, CSS  
+
+### 🌤️ **[Weather App](https://github.com/prasadt45/Weather-App-JS)**  
+A web application that provides real-time weather updates based on user input.  
+**Technologies Used:** JavaScript, HTML, CSS  
+
+---
+
+## 📊 GitHub Statistics  
 
 ![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadt45&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadt45&layout=compact&theme=radical&hide_border=true)  
@@ -73,34 +68,29 @@ Here are some of the projects I'm proud of. Check them out and let me know what 
 
 ## 👨‍💻 Competitive Programming  
 
-- 🏆 Check out my **LeetCode** profile for coding challenges: [Prasad_45](https://leetcode.com/u/Prasad_45/)  
-- 💼 Explore my portfolio on **Codefolio**: [My Codefolio Profile](https://codolio.com/profile/PrasadTamhan45)  
-
----
-
-## 💡 Fun Fact  
-🌟 **"I can spend hours debugging code but can't find my headphones when I need them!"**  
+- **LeetCode Profile:** [Prasad_45](https://leetcode.com/u/Prasad_45/)  
+- **Portfolio:** [PrasadTamhan45](https://codolio.com/profile/PrasadTamhan45)  
 
 ---
 
 ## 🌐 Connect with Me  
 
-- 📧 **Email:** [tamhanprasad@gmail.com](mailto:tamhanprasad@gmail.com)  
-- 💼 **LinkedIn:** [Prasad Tamhan ](https://www.linkedin.com/in/prasad-tamhan-20a8a4266/)  
-- 🌟 **Portfolio:** [PrasadTamhan45](https://codolio.com/profile/PrasadTamhan45)  
+- **Email:** [tamhanprasad@gmail.com](mailto:tamhanprasad@gmail.com)  
+- **LinkedIn:** [Prasad Tamhan](https://www.linkedin.com/in/prasad-tamhan-20a8a4266/)  
+- **Portfolio:** [PrasadTamhan45](https://codolio.com/profile/PrasadTamhan45)  
 
 ---
 
-## ✨ Dev Quote of the Day  
+## ✨ Quote  
 
-📜 🔥 **"Code is like humor. When you have to explain it, it’s bad." – Cory House**  
-
----
-
-## 🎉 Let's Collaborate!  
-
-If you're passionate about building awesome projects or have an idea you'd like to bring to life, let's connect. Together, we can make the web a better place! 🌐✨  
+> **"Code is like humor. When you have to explain it, it’s bad." — Cory House**
 
 ---
 
-Made with ❤️ by Prasad T.  
+## 🤝 Collaboration Opportunities  
+
+I am always open to collaborating on innovative projects and exploring new opportunities. If you have an idea or project in mind, feel free to connect with me. Together, we can create impactful solutions and make a positive difference in the tech world.  
+
+---  
+
+*Crafted with dedication and passion by Prasad Tamhan.*
