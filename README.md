@@ -43,7 +43,7 @@ A project for behavior classification using advanced algorithms.
 
 ![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasadt45&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadt45&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasadt45&theme=radical&hide_border=true)  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=prasadt45&color=brightgreen&style=flat-square)  
 
 </div>
@@ -77,4 +77,4 @@ I’m always open to collaborating on exciting projects and exploring new opport
 
 ---
 
-* 💻 Prasad Tamhan.*
+*💻 - Prasad Tamhan.*
