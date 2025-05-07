@@ -1,19 +1,6 @@
-# 👋 Welcome! I'm **Prasad Tamhan**  
+# 👋 Hi, I'm **Prasad Tamhan**  
 
-I am a dedicated **Full-Stack Web Developer (MERN Stack)** with a passion for crafting impactful projects and solving real-world challenges. My expertise lies in building robust and scalable applications, delivering quality solutions, and continuously honing my skills in the ever-evolving field of software development.  
-
----
-
-## 🎓 About Me  
-
-- **Education:**  
-  I am currently pursuing a **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering** (3rd Year) at **Shri Ramdeobaba College of Engineering and Management**.  
-
-- **Technical Expertise:**  
-  My primary focus is on full-stack development using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and I am driven by a strong passion for problem-solving and innovation.  
-
-- **Competitive Programming:**  
-  I actively tackle challenges on platforms like **LeetCode**, refining my problem-solving abilities and exploring efficient algorithms.
+Welcome to my GitHub profile! I am a **Full-Stack Web Developer (MERN Stack)** with a passion for building impactful and scalable applications. I enjoy solving real-world challenges, exploring innovative solutions, and contributing to the tech ecosystem.
 
 ---
 
@@ -36,33 +23,30 @@ I am a dedicated **Full-Stack Web Developer (MERN Stack)** with a passion for cr
 
 ## 🌟 Featured Projects  
 
-### 🎯 **[Behavior Detection - 3rd Year Project](https://github.com/prasadt45/Behavior-Detection-3rd-Year-Project)**  
-A cutting-edge project utilizing advanced algorithms for behavior classification.  
-**Technologies Used:** JavaScript, Python, HTML, CSS  
-
 ### 🎥 **[VideoTube Backend](https://github.com/prasadt45/VideoTube_Backend)**  
-A fully functional backend system designed for a YouTube-like video streaming platform.  
-**Technologies Used:** JavaScript  
+A backend system for a YouTube-like video streaming platform.  
+**Technologies Used:** Node.js, Express.js, MongoDB  
 
 ### 🖋️ **[MegaBlog - React](https://github.com/prasadt45/MegaBlog_React)**  
-A prototype blogging platform developed using React.js to provide an intuitive user experience.  
-**Technologies Used:** JavaScript, HTML, CSS  
+A blogging platform providing an intuitive and seamless user experience.  
+**Technologies Used:** React.js, HTML, CSS  
 
-### 🎵 **[Spotify Clone](https://github.com/prasadt45/Spotify_Clone)**  
-A visually appealing and functional clone of Spotify, designed to deliver a seamless user interface.  
-**Technologies Used:** JavaScript, HTML, CSS  
-
-### 🌤️ **[Weather App](https://github.com/prasadt45/Weather-App-JS)**  
-A web application that provides real-time weather updates based on user input.  
-**Technologies Used:** JavaScript, HTML, CSS  
+### 🤖 **[Behavior Detection Project](https://github.com/prasadt45/Behavior-Detection-3rd-Year-Project)**  
+A project for behavior classification using advanced algorithms.  
+**Technologies Used:** Python, JavaScript, HTML, CSS  
 
 ---
 
-## 📊 GitHub Statistics  
+## 📈 GitHub Stats  
 
-![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadt45&show_icons=true&theme=radical&hide_border=true)  
+<div align="center">
+
+![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasadt45&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadt45&layout=compact&theme=radical&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasadt45&theme=radical&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?username=prasadt45&color=brightgreen&style=flat-square)  
+
+</div>
 
 ---
 
@@ -87,10 +71,10 @@ A web application that provides real-time weather updates based on user input.
 
 ---
 
-## 🤝 Collaboration Opportunities  
+## 🤝 Let's Collaborate  
 
-I am always open to collaborating on innovative projects and exploring new opportunities. If you have an idea or project in mind, feel free to connect with me. Together, we can create impactful solutions and make a positive difference in the tech world.  
+I’m always open to collaborating on exciting projects and exploring new opportunities. Feel free to reach out if you have an idea or a project in mind. Together, let’s build something amazing!  
 
----  
+---
 
-*Crafted with dedication and passion by Prasad Tamhan.*
+* 💻 Prasad Tamhan.*
