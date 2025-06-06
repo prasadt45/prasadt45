@@ -27,9 +27,9 @@ Welcome to my GitHub profile! I am a **Full-Stack Web Developer (MERN Stack)** w
 A backend system for a YouTube-like video streaming platform.  
 **Technologies Used:** Node.js, Express.js, MongoDB  
 
-### 🖋️ **[MegaBlog - React](https://github.com/prasadt45/MegaBlog_React)**  
+### 🖋️ **[DevBlogs - React](https://github.com/prasadt45/MegaBlog_React)**  
 A blogging platform providing an intuitive and seamless user experience.  
-**Technologies Used:** React.js, HTML, CSS  
+**Technologies Used:** ReactJS , TailwindCSS , Cloudinary , Appwrite  
 
 ### 🤖 **[Behavior Detection Project](https://github.com/prasadt45/Behavior-Detection-3rd-Year-Project)**  
 A project for behavior classification using advanced algorithms.  
