@@ -1,90 +1,100 @@
-# 👋 Hi, I'm **Prasad Tamhan**  
+# Prasad Tamhan
 
-Welcome to my GitHub profile! I am a **Full-Stack Web Developer (MERN Stack)** with a passion for building impactful and scalable applications. I enjoy solving real-world challenges, exploring innovative solutions, and contributing to the tech ecosystem.
+**Java Backend Developer | Spring Boot | REST APIs | Microservices**
 
----
-
-## 🛠️ Technical Skills  
-
-### **Programming Languages:**  
-- JavaScript  
-- Python  
-- C++  
-- HTML / CSS  
-
-### **Frameworks, Libraries, and Tools:**  
-- React.js  
-- Node.js  
-- Express.js  
-- MongoDB  
-- Git & GitHub  
+Computer Science & Engineering graduate focused on building backend applications using **Java and Spring Boot**. Experienced with REST API development, database integration, JPA/Hibernate, testing, and Docker, with additional experience in React and JavaScript.
 
 ---
 
-## 🌟 Featured Projects  
+## Technical Skills
 
-### 🎥 **[VideoTube Backend](https://github.com/prasadt45/VideoTube_Backend)**  
-A backend system for a YouTube-like video streaming platform.  
-**Technologies Used:** Node.js, Express.js, MongoDB  
+### Programming Languages
+- Java
+- JavaScript
 
-### 🖋️ **[DevBlogs - React](https://github.com/prasadt45/MegaBlog_React)**  
-A blogging platform providing an intuitive and seamless user experience.  
-**Technologies Used:** ReactJS , TailwindCSS , Cloudinary , Appwrite  
+### Backend & Frameworks
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Microservices
 
-### 🤖 **[Behavior Detection Project](https://github.com/prasadt45/Behavior-Detection-3rd-Year-Project)**  
-A project for behavior classification using advanced algorithms.  
-**Technologies Used:** Python, JavaScript, HTML, CSS  
+### Databases
+- MySQL
+- Oracle SQL
+- MongoDB
 
----
+### Frontend
+- React.js
+- HTML
+- CSS
 
----
-
-## 📈 GitHub Stats  
-
-<div align="center">
-
-![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasadt45&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadt45&layout=compact&theme=radical&hide_border=true)  
-
-<b>Profile Views:</b>  
-![Profile Views](https://komarev.com/ghpvc/?username=prasadt45&color=brightgreen&style=flat-square)
-
-</div>
-
----
-
-## 👨‍💻 Competitive Programming  
-
-- **LeetCode Profile:** [Prasad_45](https://leetcode.com/u/Prasad_45/)  
-- **Portfolio:** [PrasadTamhan45](https://codolio.com/profile/PrasadTamhan45)  
+### Tools & Testing
+- Git
+- GitHub
+- Postman
+- JUnit
+- Docker
 
 ---
 
-## 👨‍💻 Competitive Programming  
+## Projects
 
-- **LeetCode Profile:** [Prasad_45](https://leetcode.com/u/Prasad_45/)  
-- **Portfolio:** [PrasadTamhan45](https://codolio.com/profile/PrasadTamhan45)  
+### Bank Loan Management System
 
----
+[GitHub Repository](https://github.com/prasadt45/BankLoanManagementSystem)
 
-## 🌐 Connect with Me  
+A full-stack application for managing banks, loan products, customer loan applications, repayments, and reporting.
 
-- **Email:** [tamhanprasad@gmail.com](mailto:tamhanprasad@gmail.com)  
-- **LinkedIn:** [Prasad Tamhan](https://www.linkedin.com/in/prasad-tamhan-20a8a4266/)  
-- **Portfolio:** [PrasadTamhan45](https://codolio.com/profile/PrasadTamhan45)  
+**Key Features**
+- Loan product exploration and comparison
+- Customer loan application and application-status tracking
+- Monthly EMI repayment management
+- Modules for Customers, Banks, Loan Products, Loan Management, Repayments, and Reporting
+- REST APIs with MySQL-based data persistence
+- Unit and API testing using JUnit and Postman
 
----
-
-## ✨ Quote  
-
-> **"Code is like humor. When you have to explain it, it’s bad." — Cory House**
-
----
-
-## 🤝 Let's Collaborate  
-
-I’m always open to collaborating on exciting projects and exploring new opportunities. Feel free to reach out if you have an idea or a project in mind. Together, let’s build something amazing!  
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, REST APIs, JUnit, Postman, HTML, CSS, JavaScript
 
 ---
 
-*💻 - Prasad Tamhan.*
+### DevBlogs
+
+[GitHub Repository](https://github.com/prasadt45/MegaBlog_React) · [Live Demo](https://devblog.vercel.app/)
+
+A full-stack blogging platform that allows users to create, manage, and view blog content through a responsive web interface.
+
+**Tech Stack:** React.js, Tailwind CSS, Appwrite, Cloudinary, TinyMCE
+
+---
+
+### Behavior Detection Project
+
+[GitHub Repository](https://github.com/prasadt45/Behavior-Detection-3rd-Year-Project)
+
+A computer vision project for analyzing user behavior through emotion and posture detection using image, webcam, and video inputs.
+
+**Tech Stack:** Python, PyTorch, JavaScript, HTML, CSS
+
+---
+
+## Profiles
+
+- **LeetCode:** [Prasad_45](https://leetcode.com/u/Prasad_45/)
+- **Codolio:** [PrasadTamhan45](https://codolio.com/profile/PrasadTamhan45)
+- **LinkedIn:** [Prasad Tamhan](https://www.linkedin.com/in/prasad-tamhan-20a8a4266/)
+
+---
+
+
+
+## Contact
+
+- **Email:** [tamhanprasad@gmail.com](mailto:tamhanprasad@gmail.com)
+- **LinkedIn:** [Prasad Tamhan](https://www.linkedin.com/in/prasad-tamhan-20a8a4266/)
+- **GitHub:** [prasadt45](https://github.com/prasadt45)
+
+---
+
+Thank you for visiting my profile.
